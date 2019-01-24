@@ -28,8 +28,9 @@ subscribing to
 
 This is official tensorflow source code clone from **1.11.0**, in order to play with source code to do some adaption.
 
-| Case      | Code Location | Comments |  Date  |
-| ---             | ---    | ---       |  ----  |
+|   Case    |     Code Location   | Readme Location |    Date   |
+|-----------|---------------------|-----------------|-----------|
+| TensorBoard Visualization | tensorflow/examples/tutorials/mnist/mnist_with_summaries.py | tensorflow/examples/tutorials/mnist/README_MNIST.md | 2019 Jan 24th|
 
 
 
