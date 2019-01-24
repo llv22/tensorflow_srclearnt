@@ -42,3 +42,5 @@ Generating locales (this might take a while)...
   en_ZW.UTF-8... done
   he_IL.UTF-8... done
 ```
+
+## 3. Enjoying Code
